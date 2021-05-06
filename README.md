@@ -2,7 +2,7 @@
 ## I'm Edson Rodrigues :curly_haired_man::v:
 #### Welcome to my world :earth_americas:
 
-- I live in Brazilian :green_circle::yellow_circle::large_blue_circle:	
+- I live in Brazil :green_circle::yellow_circle::large_blue_circle:	
 - Born in São Paulo :round_pushpin:	
 - 26 Years old :male_sign:
 - Programming student :computer:	
