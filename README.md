@@ -46,17 +46,17 @@ style="max-width:100%;">
 </a>
 
 <a href="" target="_blank">
+<img align="center" alt="Edson-JQuery" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg"
+style="max-width:100%;">
+</a>
+
+<a href="" target="_blank">
 <img align="center" alt="Edson-Python" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 style="max-width:100%;">
 </a>
 
 <a href="" target="_blank">
 <img align="center" alt="Edson-Django" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-style="max-width:100%;">
-</a>
-
-<a href="" target="_blank">
-<img align="center" alt="Edson-JQuery" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg"
 style="max-width:100%;">
 </a>
 
