@@ -55,10 +55,6 @@ style="max-width:100%;">
 style="max-width:100%;">
 </a>
 
-<a href="" target="_blank">
-<img align="center" alt="Edson-Django" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-style="max-width:100%;">
-</a>
 
 <a href="" target="_blank">
 <img align="center" alt="Edson-PyCharm" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"
