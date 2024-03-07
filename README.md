@@ -43,16 +43,6 @@ style="max-width:100%;">
 
 
 <a href="" target="_blank">
-<img align="center" alt="Edson-PyCharm" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"
-style="max-width:100%;">
-</a>
-
-<a href="" target="_blank">
-<img align="center" alt="Edson-VisualStudio" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
-style="max-width:100%;">
-</a>
-
-<a href="" target="_blank">
 <img align="center" alt="Edson-MySql" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
 style="max-width:100%;">
 </a>
