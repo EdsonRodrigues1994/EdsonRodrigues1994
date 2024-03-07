@@ -40,20 +40,6 @@ style="max-width:100%;">
 style="max-width:100%;">
 </a>
 
-<a href="" target="_blank">
-<img align="center" alt="Edson-CSharp" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-style="max-width:100%;">
-</a>
-
-<a href="" target="_blank">
-<img align="center" alt="Edson-JQuery" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg"
-style="max-width:100%;">
-</a>
-
-<a href="" target="_blank">
-<img align="center" alt="Edson-Python" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-style="max-width:100%;">
-</a>
 
 
 <a href="" target="_blank">
@@ -81,6 +67,3 @@ style="max-width:100%;">
 style="max-width:100%;">
 </a>
 
-
-
-![gato15-removebg-preview](https://user-images.githubusercontent.com/67458195/117226099-40708300-adea-11eb-93a6-7ca181a3d6ca.png)
